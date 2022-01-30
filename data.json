@@ -1,0 +1,24 @@
+{
+    "summary": [{
+        "active_cases": 351850,
+        "active_cases_change": -12100,
+        "avaccine": 286834.0,
+        "cases": 12531,
+        "cumulative_avaccine": 73432663.0,
+        "cumulative_cases": 2748537,
+        "cumulative_cvaccine": 29656509.0,
+        "cumulative_deaths": 31359.0,
+        "cumulative_dvaccine": 86732116.0,
+        "cumulative_recovered": 2365328.0,
+        "cumulative_testing": 44620348.0,
+        "cvaccine": 19511.0,
+        "date": "15-01-2022",
+        "deaths": 109.0,
+        "dvaccine": 0.0,
+        "province": "Canada",
+        "recovered": 24522.0,
+        "testing": 63717.0,
+        "testing_info": "NULL"
+    }],
+    "version": "2022-01-15 21:38 EST"
+}
