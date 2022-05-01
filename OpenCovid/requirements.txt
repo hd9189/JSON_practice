@@ -2,4 +2,3 @@ requests>=2.27.1
 pandas>=1.4.0
 numpy>=1.22.1
 matplotlib>=3.5.1
-pyautogui>=0.9.48

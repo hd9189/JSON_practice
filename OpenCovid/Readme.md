@@ -1,8 +1,10 @@
 python -m venv venv	
 
 # On Mac OS, Linux or Unix
-./venv/bin/activate
+. ./venv/bin/activate
 source ./venv/bin/activate
+
+pip3 install -r requirements.txt
 
 
 # Deactivate or close the terminal or switch the virtual environment

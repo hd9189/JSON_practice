@@ -44,4 +44,10 @@ def population():
     )
     plt.show()
 
-population()
+# population()
+def help():
+    df = pd.read_csv('Population.csv')
+    print(df)
+    ax = df.plot.bar() #plots df csv
+    plt.show()
+help()
